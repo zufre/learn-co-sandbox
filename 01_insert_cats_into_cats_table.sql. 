@@ -1,0 +1,2 @@
+INSERT INTO cats (name, age, breed) VALUES ("Hannah2", 1, "Tabby7");
+INSERT INTO cats (name, age, breed) VALUES ("Hannah3", 1, "Tabby7");
